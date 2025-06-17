@@ -1,1 +1,16 @@
-this is guru
+<!DOCTYPE html>
+<html>
+<head>
+    <title>test2.txt Index</title>
+</head>
+<body>
+    <h1>Index for test2.txt</h1>
+    <ol>
+        <li>Introduction</li>
+        <li>Features</li>
+        <li>Usage</li>
+        <li>Examples</li>
+        <li>License</li>
+    </ol>
+</body>
+</html>
